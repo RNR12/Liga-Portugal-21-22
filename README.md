@@ -16,3 +16,8 @@ Neste repositório, poderemos averiguar diferentes vertentes estatísticas que c
 Este repositório está organizado da seguinte forma:
 
 + `cartoes.csv`: Registo dos cartões amarelos e vermelhos durante a época, extraído do site [ESPN](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
++ `classificação.csv`: Classificação final da época 21/22 da Liga Portugal, extraída do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
++ `classificacao_casa.csv`: 
+Classificação final, apenas contabilizando os jogos em que as equipas jogaram em casa, extraído do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
++ `classificacao_fora.csv`: Classificação final, apenas contabilizando os jogos em que as equipas jogaram fora, extraído do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
++ `classificacao_intervalo.csv`: Classificação final, apenas contabilizando os jogos até ao final do primeiro tempo, extraído do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
