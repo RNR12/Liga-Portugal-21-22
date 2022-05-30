@@ -10,3 +10,9 @@ Com este repositório pretendemos fornecer, a todos aqueles que estiverem intere
 Apesar de atualmente dispormos de bastantes referências que nos podem informar sobre os campeonatos de futebol a nível global, queremos que este repositório sirva para fundamentar uma análise mais estatística e aprofundada do passado Campeonato Nacional para fins de registos estatístico-históricos.
 
 Neste repositório, poderemos averiguar diferentes vertentes estatísticas que consideramos importantes para o estudo analítico dos jogadores, das equipas e do campeonato em si. Com este repositório, obteremos um registo que poderá ser usado para estudos analíticos ou estatísticos do nosso campeonato.
+
+# 🧱Estrutura
+
+Este repositório está organizado da seguinte forma:
+
++ `cartoes.csv`: Registo dos cartões amarelos e vermelhos durante a época, extraído do site [ESPN](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
