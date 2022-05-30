@@ -26,3 +26,24 @@ Classificação final, apenas contabilizando os jogos em que as equipas jogaram 
 + `defesas_guarda_redes.csv`: Top 20 dos guarda-redes com maior número de defesas ao longo da época, extraído do site [Liga Portugal](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
 + `jogos.csv`: Registo total de todos os jogos da época 21/22 da Liga Portugal, extraído do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
 + `melhores_marcadores.csv`: Top 20 dos melhores marcadores ao longo da época, extraído do site [Liga Portugal](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
+
+# 📔 Dicionário dos dados
+
+Explicações em `cartoes.csv`
+
+| Nome da coluna        | Significado
+| ------------- |:-------------:|
+| `clube` | Clube a analisar
+| `partidas_efetuadas` | Quantidade de jogos que o clube disputou
+| `cartoes_amarelos` | Número de cartões amarelos que o clube cometeu durante a época
+| `cartoes_vermelhos` | Número de cartões vermelhos que o clube cometeu durante a época
+
+
+
+
+
+
+
+
+
+
