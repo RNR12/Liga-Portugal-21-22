@@ -25,3 +25,4 @@ Classificação final, apenas contabilizando os jogos em que as equipas jogaram 
 + `classificacao_intervalo_fora.csv`: Classificação final, apenas contabilizando os jogos até ao final do primeiro tempo em que as equipas jogaram fora de casa, extraído do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
 + `defesas_guarda_redes.csv`: Top 20 dos guarda-redes com maior número de defesas ao longo da época, extraído do site [Liga Portugal](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
 + `jogos.csv`: Registo total de todos os jogos da época 21/22 da Liga Portugal, extraído do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
++ `melhores_marcadores.csv`: Top 20 dos melhores marcadores ao longo da época, extraído do site [Liga Portugal](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
