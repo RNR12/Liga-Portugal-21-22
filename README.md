@@ -80,6 +80,89 @@ Explicações em `classificação_fora.csv`
 | `diferenca_golos` | Diferença entre os golos marcados e os golos sofridos fora pela equipa durante o campeonato
 | `pontos` | Pontuação final (apenas contabilizando os jogos fora) da equipa no campeonato
 
+Explicações em `classificação_intervalo.csv`
+
+| Nome da coluna        | Significado
+| ------------- |:-------------:|
+| `equipa` | Respetiva equipa do campeonato português
+| `jogos_jogados` | Respetivo número total de jogos que a equipa jogou (contam os jogos em casa e os jogos fora)
+| `vitorias` | Número de vitórias ao intervalo da equipa no campeonato 
+| `empates` | Número de empates ao intervalo da equipa no campeonato
+| `derrotas` | Número de derrotas ao intervalo da equipa no campeonato
+| `golos_marcados` | Número de golos marcados até ao final do 1º tempo pela equipa durante o campeonato
+| `golos_sofridos` | Número de golos sofridos até o final do 1º tempo pela equipa durante o campeonato
+| `diferenca_golos` | Diferença entre os golos marcados e os golos sofridos até ao final do 1º tempo pela equipa durante o campeonato
+| `pontos` | Pontuação final (apenas contabilizando os jogos até o intervalo) da equipa no campeonato
+
+Explicações em `classificação_intervalo_casa.csv`
+
+| Nome da coluna        | Significado
+| ------------- |:-------------:|
+| `equipa` | Respetiva equipa do campeonato português
+| `jogos_jogados` | Respetivo número total de jogos que a equipa jogou (contam apenas os jogos em casa)
+| `vitorias` | Número de vitórias caseiras ao intervalo da equipa no campeonato 
+| `empates` | Número de empates caseiros ao intervalo da equipa no campeonato
+| `derrotas` | Número de derrotas caseiras ao intervalo da equipa no campeonato
+| `golos_marcados` | Número de golos marcados pela equipa da casa até ao final do 1º tempo pela equipa durante o campeonato
+| `golos_sofridos` | Número de golos sofridos pela equipa da casa até o final do 1º tempo pela equipa durante o campeonato
+| `diferenca_golos` | Diferença entre os golos marcados e os golos sofridos em casa até ao final do 1º tempo pela equipa durante o campeonato
+| `pontos` | Pontuação final (apenas contabilizando os jogos em casa até o intervalo) da equipa no campeonato
+
+Explicações em `classificação_intervalo_fora.csv`
+
+| Nome da coluna        | Significado
+| ------------- |:-------------:|
+| `equipa` | Respetiva equipa do campeonato português
+| `jogos_jogados` | Respetivo número total de jogos que a equipa jogou (contam apenas os jogos fora)
+| `vitorias` | Número de vitórias fora ao intervalo da equipa no campeonato 
+| `empates` | Número de empates fora ao intervalo da equipa no campeonato
+| `derrotas` | Número de derrotas fora ao intervalo da equipa no campeonato
+| `golos_marcados` | Número de golos marcados pela equipa a jogar fora até ao final do 1º tempo pela equipa durante o campeonato
+| `golos_sofridos` | Número de golos sofridos pela equipa a jogar fora até o final do 1º tempo pela equipa durante o campeonato
+| `diferenca_golos` | Diferença entre os golos marcados e os golos sofridos fora até ao final do 1º tempo pela equipa durante o campeonato
+| `pontos` | Pontuação final (apenas contabilizando os jogos fora até o intervalo) da equipa no campeonato
+
+Explicações em `defesas_guarda_redes.csv`
+
+| Nome da coluna        | Significado
+| ------------- |:-------------:|
+| `nome_guarda_redes` | Nome do respetivo guarda-redes
+| `clube` | Clube que o guarda-redes representa
+| `numero_defesas` | Número total de defesas que o guarda-redes fez ao longo da época 
+
+Explicações em `jogos.csv`
+
+| Nome da coluna        | Significado
+| ------------- |:-------------:|
+| `divisão` | Divisão da liga 
+| `data` | Data em que o jogo se realizou
+| `horario` | Horário em que o jogo se realizou
+| `equipa_da_casa` | Equipa que jogou em casa no respetivo jogo
+| `equipa_de_fora` | quipa que jogou fora no respetivo jogo
+| `golos_equipa_da_casa_final` | Número de golos marcados pela equipa da casa durante a totalidade do jogo
+| `golos_equipa_de_fora_final` | Número de golos marcados pela equipa a jogar fora durante a totalidade do jogo
+| `resultado_final` | Resultado final do jogo
+| `golos_equipa_da_casa_intervalo` | Número de golos marcados pela equipa da casa até o intervalo do jogo
+| `golos_equipa_de_fora_intervalo` | Número de golos marcados pela equipa de fora até o intervalo do jogo
+| `resultado_intervalo` | Resultado do jogo ao intervalo
+| `remates_equipa_casa` | Remates efetuados pela equipa da casa durante a totalidade do jogo
+| `remates_equipa_fora` | Remates efetuados pela equipa de fora durante a totalidade do jogo
+| `remates_baliza_equipa_casa` | Remates à baliza efetuados pela equipa da casa durante a totalidade do jogo
+| `remates_baliza_equipa_fora` | Remates à baliza efetuados pela equipa de fora durante a totalidade do jogo
+| `faltas_casa` | Faltas cometidas pela equipa da casa durante a totalidade do jogo
+| `faltas_fora` | Faltas cometidas pela equipa de fora durante a totalidade do jogo
+
+Explicações em `defesas_guarda_redes.csv`
+
+| Nome da coluna        | Significado
+| ------------- |:-------------:|
+| `nome_jogador` | Nome do respetivo jogador
+| `clube` | Clube que o jogador representa
+| `numero_golos` | Número total de golos que o jogador marcou ao longo da época
+
+
+
+
 
 
 
