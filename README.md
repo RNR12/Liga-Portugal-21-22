@@ -3,7 +3,6 @@ Dados relativos ao Campeonato de Futebol Masculino Português, relativos à épo
 
 ![image](https://user-images.githubusercontent.com/103261052/171031369-f8b31329-0b46-4eff-9683-ffc7e9bf7afe.png)
 
-
 ⚽ Este repositório tem como objetivo analisar estatisticamente a época 2021/22 da 1ª liga portuguesa de futebol.
 
 # 🤔Contexto
@@ -19,16 +18,15 @@ Neste repositório, poderemos averiguar diferentes vertentes estatísticas que c
 Este repositório está organizado da seguinte forma:
 
 + `cartoes.csv`: Registo dos cartões amarelos e vermelhos durante a época, extraído do site [ESPN](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
-+ `classificação.csv`: Classificação final da época 21/22 da Liga Portugal, extraída do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
-+ `classificacao_casa.csv`: 
-Classificação final, apenas contabilizando os jogos em que as equipas jogaram em casa, extraído do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
-+ `classificacao_fora.csv`: Classificação final, apenas contabilizando os jogos em que as equipas jogaram fora, extraído do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
-+ `classificacao_intervalo.csv`: Classificação final, apenas contabilizando os jogos até ao final do primeiro tempo, extraído do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
-+ `classificacao_intervalo_casa.csv`: Classificação final, apenas contabilizando os jogos até ao final do primeiro tempo em que as equipas jogaram em casa, extraído do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
-+ `classificacao_intervalo_fora.csv`: Classificação final, apenas contabilizando os jogos até ao final do primeiro tempo em que as equipas jogaram fora de casa, extraído do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
-+ `defesas_guarda_redes.csv`: Top 20 dos guarda-redes com maior número de defesas ao longo da época, extraído do site [Liga Portugal](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
-+ `jogos.csv`: Registo total de todos os jogos da época 21/22 da Liga Portugal, extraído do site [Footy Stats](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
-+ `melhores_marcadores.csv`: Top 20 dos melhores marcadores ao longo da época, extraído do site [Liga Portugal](https://www.espn.com.br/futebol/estatisticas/_/liga/POR.1/vista/cartoes)
++ `classificação.csv`: Classificação final da época 21/22 da Liga Portugal, extraída do site [MaisFutebol](https://maisfutebol.iol.pt/liga/resultadoseclassificacao)
++ `classificacao_casa.csv`: Classificação final, apenas contabilizando os jogos em que as equipas jogaram em casa, extraído do site [Footy Stats](https://footystats.org/portugal/liga-nos/home-away-league-table)
++ `classificacao_fora.csv`: Classificação final, apenas contabilizando os jogos em que as equipas jogaram fora, extraído do site [Footy Stats](https://footystats.org/portugal/liga-nos/home-away-league-table)
++ `classificacao_intervalo.csv`: Classificação final, apenas contabilizando os jogos até ao final do primeiro tempo, extraído do site [Footy Stats](https://footystats.org/portugal/liga-nos/half-time-table)
++ `classificacao_intervalo_casa.csv`: Classificação final, apenas contabilizando os jogos até ao final do primeiro tempo em que as equipas jogaram em casa, extraído do site [Footy Stats](https://footystats.org/portugal/liga-nos/half-time-table)
++ `classificacao_intervalo_fora.csv`: Classificação final, apenas contabilizando os jogos até ao final do primeiro tempo em que as equipas jogaram fora de casa, extraído do site [Footy Stats](https://footystats.org/portugal/liga-nos/half-time-table)
++ `defesas_guarda_redes.csv`: Top 20 dos guarda-redes com maior número de defesas ao longo da época, extraído do site [Liga Portugal](https://www.ligaportugal.pt/pt/liga/estatisticas/20212022/ligaportugalbwin/defesas)
++ `jogos.csv`: Registo total de todos os jogos da época 21/22 da Liga Portugal, extraído do site [Football-Data.co.uk](https://www.football-data.co.uk/portugalm.php)
++ `melhores_marcadores.csv`: Top 20 dos melhores marcadores ao longo da época, extraído do site [Liga Portugal](https://www.ligaportugal.pt/pt/liga/estatisticas/topmarcadores/20212022/ligaportugalbwin)
 
 # 📔 Dicionário dos dados
 
