@@ -1,6 +1,9 @@
 # Liga-Portugal-21-22
 Dados relativos ao Campeonato de Futebol Masculino Português, relativos à época 2021-2022.
 
+![image](https://user-images.githubusercontent.com/103261052/171031369-f8b31329-0b46-4eff-9683-ffc7e9bf7afe.png)
+
+
 ⚽ Este repositório tem como objetivo analisar estatisticamente a época 2021/22 da 1ª liga portuguesa de futebol.
 
 # 🤔Contexto
