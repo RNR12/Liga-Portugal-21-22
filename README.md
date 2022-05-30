@@ -50,7 +50,35 @@ Explicações em `classificação.csv`
 | `golos_marcados` | Número de golos marcados pela equipa durante o campeonato
 | `golos_sofridos` | Número de golos sofridos pela equipa durante o campeonato
 | `diferenca_golos` | Diferença entre os golos marcados e os golos sofridos pela equipa durante o campeonato
-| `pontos` | Pontuação Final da equipa no campeonato
+| `pontos` | Pontuação final da equipa no campeonato
+
+Explicações em `classificação_casa.csv`
+
+| Nome da coluna        | Significado
+| ------------- |:-------------:|
+| `equipa` | Respetiva equipa do campeonato português
+| `jogos_jogados` | Respetivo número total de jogos que a equipa jogou (contam epenas os jogos feitos em casa)
+| `vitorias` | Número de vitórias caseiras da equipa no campeonato
+| `empates` | Número de empates caseiras da equipa no campeonato
+| `derrotas` | Número de derrotas caseiras da equipa no campeonato
+| `golos_marcados` | Número de golos marcados em casa pela equipa durante o campeonato
+| `golos_sofridos` | Número de golos sofridos em casa pela equipa durante o campeonato
+| `diferenca_golos` | Diferença entre os golos marcados e os golos sofridos em casa pela equipa durante o campeonato
+| `pontos` | Pontuação final (apenas contabilizando os jogos em casa) da equipa no campeonato
+
+Explicações em `classificação_fora.csv`
+
+| Nome da coluna        | Significado
+| ------------- |:-------------:|
+| `equipa` | Respetiva equipa do campeonato português
+| `jogos_jogados` | Respetivo número total de jogos que a equipa jogou (contam epenas os jogos fora)
+| `vitorias` | Número de vitórias fora da equipa no campeonato
+| `empates` | Número de empates fora da equipa no campeonato
+| `derrotas` | Número de derrotas fora da equipa no campeonato
+| `golos_marcados` | Número de golos marcados fora pela equipa durante o campeonato
+| `golos_sofridos` | Número de golos sofridos fora pela equipa durante o campeonato
+| `diferenca_golos` | Diferença entre os golos marcados e os golos sofridos fora pela equipa durante o campeonato
+| `pontos` | Pontuação final (apenas contabilizando os jogos fora) da equipa no campeonato
 
 
 
