@@ -33,11 +33,24 @@ Explicações em `cartoes.csv`
 
 | Nome da coluna        | Significado
 | ------------- |:-------------:|
-| `clube` | Clube a analisar
+| `clube` | Respetivo clube do campeonato português
 | `partidas_efetuadas` | Quantidade de jogos que o clube disputou
 | `cartoes_amarelos` | Número de cartões amarelos que o clube cometeu durante a época
 | `cartoes_vermelhos` | Número de cartões vermelhos que o clube cometeu durante a época
 
+Explicações em `classificação.csv`
+
+| Nome da coluna        | Significado
+| ------------- |:-------------:|
+| `equipa` | Respetiva equipa do campeonato português
+| `jogos_jogados` | Respetivo número total de jogos que a equipa jogou (contam os jogos em casa e fora)
+| `vitorias` | Número de vitórias da equipa no campeonato
+| `empates` | Número de empates da equipa no campeonato
+| `derrotas` | Número de derrotas da equipa no campeonato
+| `golos_marcados` | Número de golos marcados pela equipa durante o campeonato
+| `golos_sofridos` | Número de golos sofridos pela equipa durante o campeonato
+| `diferenca_golos` | Diferença entre os golos marcados e os golos sofridos pela equipa durante o campeonato
+| `pontos` | Pontuação Final da equipa no campeonato
 
 
 
