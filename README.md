@@ -25,7 +25,6 @@ Este repositório está organizado da seguinte forma:
 + `classificacao_intervalo_casa.csv`: Classificação final, apenas contabilizando os jogos até ao final do primeiro tempo em que as equipas jogaram em casa, extraído do site [Footy Stats](https://footystats.org/portugal/liga-nos/half-time-table)
 + `classificacao_intervalo_fora.csv`: Classificação final, apenas contabilizando os jogos até ao final do primeiro tempo em que as equipas jogaram fora de casa, extraído do site [Footy Stats](https://footystats.org/portugal/liga-nos/half-time-table)
 + `defesas_guarda_redes.csv`: Top 20 dos guarda-redes com maior número de defesas ao longo da época, extraído do site [Liga Portugal](https://www.ligaportugal.pt/pt/liga/estatisticas/20212022/ligaportugalbwin/defesas)
-+ `jogos.csv`: Registo total de todos os jogos da época 21/22 da Liga Portugal, extraído do site [Football-Data.co.uk](https://www.football-data.co.uk/portugalm.php)
 + `melhores_marcadores.csv`: Top 20 dos melhores marcadores ao longo da época, extraído do site [Liga Portugal](https://www.ligaportugal.pt/pt/liga/estatisticas/topmarcadores/20212022/ligaportugalbwin)
 
 # 📔 Dicionário dos dados
